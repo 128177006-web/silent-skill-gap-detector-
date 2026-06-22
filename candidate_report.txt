@@ -1,0 +1,19 @@
+
+Candidate Evaluation Report
+
+Match Score: 33.33 %
+
+Matched Skills:
+- Python
+- SQL
+- Data Mining
+
+Missing Skills:
+- Machine Learning
+- Deep Learning
+- Statistics
+- TensorFlow
+- Predictive Modeling
+- Cloud Computing
+
+Result: Needs Improvement

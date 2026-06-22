@@ -1,0 +1,12 @@
+
+Silent Skill Gap Detector Summary
+
+Total Skills Found: 9
+Matched Skills: 3
+Missing Skills: 6
+
+Match Score: 33.33 %
+
+Generated Files:
+- candidate_report.txt
+- skill_gap_chart.png
